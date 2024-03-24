@@ -2,7 +2,7 @@
     "manufacturer": "Jason Wu",
     "keyboard_name": "darkpear",
     "maintainer": "wu-json",
-    "bootloader": "atmel-dfu",
+    "bootloader": "caterina",
     "diode_direction": "COL2ROW",
     "features": {
         "bootmagic": true,
